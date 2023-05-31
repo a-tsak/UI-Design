@@ -1,0 +1,3 @@
+# UI-Design
+
+This is a university project for the subject "Human-Computer Interaction" I did with two classmates from university, using Figma. The goal was to design a website and an android app that focuses on finding stray pets a new home they can take care of, or uploading new posts about strays found outisde. The website had to have 2 pages, Home Page and Sign Up display, whereas the app had to have many more displays.
